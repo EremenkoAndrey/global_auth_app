@@ -1,0 +1,6 @@
+{
+  "global_auth__sign_in__screen_title": "Sign In",
+  "@helloWorld": {
+    "description": "Sign In screen title"
+  }
+}
